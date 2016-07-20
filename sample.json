@@ -1,0 +1,171 @@
+{
+    "structure": {
+        "types": [{
+                  "datatype": "NUMBER",
+                  "id": "NO_OF_Views"
+                  }, {
+                  "datatype": "STRING",
+                  "id": "PRODUCT"
+                  }, {
+                  "datatype": "STRING",
+                  "id": "USER_STATUS"
+                  }]
+    },
+    "content": {
+        "rows": [{
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "4"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Toys"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Logged_in"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "6"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Toys"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Annonymus"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "1"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Bags"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Logged_in"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "5"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Bags"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Annonymus"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "6"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Books"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Logged_in"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "3"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Books"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Annonymus"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "2"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Watches"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Logged_in"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "1"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Watches"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Annonymus"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "6"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Studs"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Logged_in"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "4"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Studs"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Annonymus"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "2"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Shoes"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Logged_in"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "4"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Shoes"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Annonymus"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "1"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Belts"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Logged_in"
+                           }]
+                 }, {
+                 "cells": [{
+                           "id": "NO_OF_Views",
+                           "value": "9"
+                           }, {
+                           "id": "PRODUCT",
+                           "value": "Belts"
+                           }, {
+                           "id": "USER_STATUS",
+                           "value": "Annonymus"
+                           }]
+                 }]
+    }
+}

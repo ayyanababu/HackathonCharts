@@ -1,0 +1,892 @@
+{
+    "content" : {
+        "rows" : [
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "1"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "10"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1101"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "<20"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "BANGALORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "11"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"KEY_UP\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "SEARCH"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "7"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "70"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1101"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "<20"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "BANGALORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "11"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"CLICK\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "SORT"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "2"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "20"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1101"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "Optional(\"TOY\")"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(200)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "<20"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "BANGALORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "11"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"NAVIGATION\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "VIEW"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "3"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "30"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1101"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "<20"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "BANGALORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "11"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"BUTTON_PRESS\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "DESCRIPTION"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "2"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "21"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1101"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "Optional(\"TOY\")"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(201)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "<20"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "BANGALORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "11"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"NAVIGATION\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "VIEW"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "2"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "22"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1101"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "Optional(\"BAG\")"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(210)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "<20"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "BANGALORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "11"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"NAVIGATION\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "VIEW"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "1"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "11"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1102"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "<20"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "BANGALORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "11"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"KEY_UP\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "SEARCH"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "1"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "100"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1201"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : ">40"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "MYSORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "12"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"KEY_UP\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "SEARCH"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "7"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "700"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1201"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : ">40"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "MYSORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "12"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"CLICK\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "SORT"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "2"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "200"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1201"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "Optional(\"SHOES\")"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(100)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : ">40"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "MYSORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "12"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"NAVIGATION\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "VIEW"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "2"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "201"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1201"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "Optional(\"SHOES\")"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(101)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : ">40"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "MYSORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "12"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"NAVIGATION\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "VIEW"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "3"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "300"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1201"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : ">40"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "MYSORE"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "12"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"BUTTON_PRESS\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "DESCRIPTION"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "M"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "1"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "1000"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1401"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "20-40"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "NEWYORK"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "14"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"KEY_UP\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "SEARCH"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "F"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "7"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "7000"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1401"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "20-40"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "NEWYORK"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "14"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"CLICK\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "SORT"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "F"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "7"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "7001"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1401"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "20-40"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "NEWYORK"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "14"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"CLICK\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "SORT"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "F"
+                             }
+                             ]
+                  },
+                  {
+                  "cells" : [
+                             {
+                             "id" : "id",
+                             "value" : "3"
+                             },
+                             {
+                             "id" : "type_id",
+                             "value" : "3000"
+                             },
+                             {
+                             "id" : "user_session_id",
+                             "value" : "1401"
+                             },
+                             {
+                             "id" : "q_name",
+                             "value" : "nil"
+                             },
+                             {
+                             "id" : "q_tag",
+                             "value" : "Optional(0)"
+                             },
+                             {
+                             "id" : "age",
+                             "value" : "20-40"
+                             },
+                             {
+                             "id" : "location",
+                             "value" : "NEWYORK"
+                             },
+                             {
+                             "id" : "user_id",
+                             "value" : "14"
+                             },
+                             {
+                             "id" : "event_type",
+                             "value" : "Optional(\"BUTTON_PRESS\")"
+                             },
+                             {
+                             "id" : "name",
+                             "value" : "DESCRIPTION"
+                             },
+                             {
+                             "id" : "count",
+                             "value" : "1.0"
+                             },
+                             {
+                             "id" : "sex",
+                             "value" : "F"
+                             }
+                             ]
+                  }
+                  ]
+    },
+    "structure" : {
+        "types" : [
+                   {
+                   "id" : "id",
+                   "datatype" : "STRING"
+                   },
+                   {
+                   "id" : "name",
+                   "datatype" : "STRING"
+                   },
+                   {
+                   "id" : "event_type",
+                   "datatype" : "STRING"
+                   },
+                   {
+                   "id" : "user_id",
+                   "datatype" : "STRING"
+                   },
+                   {
+                   "id" : "age",
+                   "datatype" : "STRING"
+                   },
+                   {
+                   "id" : "sex",
+                   "datatype" : "STRING"
+                   },
+                   {
+                   "id" : "location",
+                   "datatype" : "STRING"
+                   },
+                   {
+                   "id" : "type_id",
+                   "datatype" : "STRING"
+                   },
+                   {
+                   "id" : "q_name",
+                   "datatype" : "STRING"
+                   },
+                   {
+                   "id" : "user_session_id",
+                   "datatype" : "STRING"
+                   }
+                   ,
+                   {
+                   "id" : "q_tag",
+                   "value" : "STRING"
+                   }
+                   ,
+                   {
+                   "id" : "count",
+                   "datatype" : "NUMBER"
+                   }
+                   ]
+    }
+}
